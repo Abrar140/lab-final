@@ -341,6 +341,7 @@ const styles = StyleSheet.create({
     fontSize: 14,
     fontWeight: 'bold',
     marginBottom: 5,
+    color: 'black',
   },
   productPrice: {
     fontSize: 16,

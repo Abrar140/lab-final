@@ -220,7 +220,7 @@ const styles = StyleSheet.create({
   description: {
     fontSize: 16,
     lineHeight: 24,
-    color: '#333',
+    color: 'white',
   },
   detailsGrid: {
     flexDirection: 'row',
@@ -252,6 +252,7 @@ const styles = StyleSheet.create({
   },
   reviewerName: {
     fontWeight: 'bold',
+    color: 'black',
   },
   reviewRating: {
     flexDirection: 'row',
@@ -260,6 +261,7 @@ const styles = StyleSheet.create({
   reviewComment: {
     fontSize: 14,
     marginVertical: 5,
+    color: 'black',
   },
   reviewDate: {
     fontSize: 12,
