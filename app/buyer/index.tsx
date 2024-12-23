@@ -242,7 +242,7 @@ const styles = StyleSheet.create({
   },
   searchContainer: {
     flexDirection: 'row',
-    marginBottom: 10,
+    marginBottom: 30,
     alignItems: 'center',
   },
   searchInput: {
@@ -277,11 +277,13 @@ const styles = StyleSheet.create({
     backgroundColor: '#f5f5f5',
     borderRadius: 10,
     marginBottom: 10,
+    color: 'black',
   },
   priceFilters: {
     flexDirection: 'row',
     justifyContent: 'space-between',
     marginBottom: 10,
+
   },
   priceInput: {
     width: '48%',
@@ -295,6 +297,7 @@ const styles = StyleSheet.create({
     fontSize: 16,
     fontWeight: 'bold',
     marginVertical: 10,
+    color: 'black',
   },
   ratingButton: {
     padding: 8,
@@ -302,6 +305,7 @@ const styles = StyleSheet.create({
     borderColor: '#ccc',
     borderRadius: 5,
     marginRight: 10,
+    color: 'black',
   },
   selectedRating: {
     backgroundColor: '#007AFF',
@@ -313,10 +317,12 @@ const styles = StyleSheet.create({
     borderColor: '#ccc',
     borderRadius: 5,
     marginRight: 10,
+    color: 'black',
   },
   selectedCategory: {
     backgroundColor: '#007AFF',
     borderColor: '#007AFF',
+    color: 'black',
   },
   productList: {
     padding: 5,
