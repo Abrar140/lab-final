@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922398052635",
+    "project_id": "meta-hub-fa271",
+    "storage_bucket": "meta-hub-fa271.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922398052635:android:fb46c84fd924639fdf83be",
+        "android_client_info": {
+          "package_name": "com.dawood.testapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6OtnbGMbiei92kih1NYsoVEkBVp033pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
